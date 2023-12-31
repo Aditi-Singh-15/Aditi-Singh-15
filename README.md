@@ -2,7 +2,7 @@
 <div align="center"><img src="https://github.com/Aditi-Singh-15/Aditi-Singh-15/blob/main/WhatsApp%20Image%202023-08-10%20at%2010.48.53%20AM%20(1).jpeg?raw=true/main/Github Banner.png"> </div>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-singh-15&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-singh-15" /> </p>
 
