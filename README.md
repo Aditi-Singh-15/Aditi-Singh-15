@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Singh</h1>
+<h1 align="center">Hola 👋, I'm Aditi Singh</h1>
 <div align="center"><img src="https://github.com/Aditi-Singh-15/Aditi-Singh-15/blob/main/WhatsApp%20Image%202023-08-10%20at%2010.48.53%20AM%20(1).jpeg?raw=true/main/Github Banner.png"> </div>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-singh-15&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-singh-15" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **aditiiisingh15@gmail.com**
 
