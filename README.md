@@ -62,10 +62,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-singh-15&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-singh-15" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-singh-15&show_icons=true&locale=en" alt="aditi-singh-15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-singh-15&show_icons=true&locale=en&theme=dark" alt="aditi-singh-15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-singh-15&" alt="aditi-singh-15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-singh-15&theme=dark" alt="aditi-singh-15" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditi-Singh-15&show_icons=true&locale=en&layout=compact" alt="Aditi-Singh-15" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditi-Singh-15&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aditi-Singh-15" /></p>
 
 
